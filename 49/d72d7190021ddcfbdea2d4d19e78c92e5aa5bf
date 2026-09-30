@@ -1,0 +1,19 @@
+profile/README.md
+  s_b2f99a3c130f74::t_1306a53a024b25 16,31-35
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "49d72d7190021ddcfbdea2d4d19e78c92e5aa5bf",
+  "prompts": {},
+  "sessions": {
+    "s_b2f99a3c130f74": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5053a153-71fa-4131-a82b-b98190e8207f",
+        "model": "unknown"
+      },
+      "human_author": "SUTRA Health <335953361+sutra-health@users.noreply.github.com>"
+    }
+  }
+}
