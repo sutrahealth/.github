@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>Health-a-thon 2026</b> · Cancer care · Patient follow-up and continuity of care · Round 1
+  <b>Cancer care</b> · Patient follow-up · Continuity of care · Built for Indian hospitals
 </p>
 
 ---
@@ -40,12 +40,12 @@ SUTRA is an assistive follow-through layer. It sits on top of whatever the hospi
 | **Consent first** | Nothing leaves the hospital without a doctor's signature and the patient's consent. |
 | **Open source** | SUTRA and its connectors are published under the AGPL licence, free for any hospital to run on its own servers. |
 
-## Status and roadmap
+## Where we are
 
-- [x] Round 1 idea submission and design mockups
-- [ ] Five-week build sprint: register import, WhatsApp booking, one signed pathway and one filed report
-- [ ] Live prototype demo at the finale
-- [ ] Ninety-day pilot in one oncology OPD, measured by one number: the share of planned next steps taken inside the window the doctor set
+- [x] Clinical workflow design and product mockups, built with our clinical lead
+- [ ] The core path: register import, WhatsApp booking, one signed pathway and one filed report
+- [ ] Open-source release of SUTRA and its hospital connectors
+- [ ] A ninety-day pilot in one oncology OPD, measured by one number: the share of planned next steps taken inside the window the doctor set
 
 ## Team
 
