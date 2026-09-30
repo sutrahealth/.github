@@ -44,13 +44,6 @@ SUTRA is an assistive follow-through layer. It sits on top of whatever the hospi
 | **Consent first** | Nothing leaves the hospital without a doctor's signature and the patient's consent. |
 | **Open source** | SUTRA and its connectors are published under the AGPL licence, free for any hospital to run on its own servers. |
 
-## Where we are
-
-- [x] Clinical workflow design and product mockups, built with our clinical lead
-- [ ] The core path: register import, WhatsApp booking, one signed pathway and one filed report
-- [ ] Open-source release of SUTRA and its hospital connectors
-- [ ] A ninety-day pilot in one oncology OPD, measured by one number: the share of planned next steps taken inside the window the doctor set
-
 ## Team
 
 **Dhvani Bhide** (clinical lead) and **Charitra Arora**.
