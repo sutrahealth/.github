@@ -13,7 +13,7 @@
 Cancer care runs for months: surgery, six cycles of chemotherapy with a blood test before each one, radiotherapy and follow-up. In most Indian hospitals, the record of that care is split across paper slips, phone calls and systems that do not talk to each other. Every instruction can be right and a step can still be missed, because nothing in the hospital holds the patient's plan and follows it through.
 
 <p align="center">
-  <img src="assets/journey.svg" alt="Today the record breaks between the OPD, the lab, the pharmacy and scheduling. With SUTRA, the doctor signs one plan and every step is booked, filed and visible." width="100%">
+  <img src="assets/journey.png" alt="A patient's journey through a district hospital today: an OPD slip, a lab report, a diagnosis note, a pharmacy slip, an appointment card and a surgery wristband, joined by a dashed line that breaks at every hand-off." width="100%">
 </p>
 
 ## What SUTRA does
@@ -28,7 +28,11 @@ SUTRA is an assistive follow-through layer. It sits on top of whatever the hospi
 - **ABHA along the way.** Records are linked to ABHA, the national health ID, whenever a patient has one or asks for one.
 
 <p align="center">
-  <img src="assets/how-it-fits.svg" alt="Families, doctors and the hospital admin use SUTRA, which reads the hospital's EHR or register, scheduler, lab and pharmacy, and ABDM." width="100%">
+  <img src="assets/how-it-fits.png" alt="Families, the doctor and the hospital admin connect through the SUTRA thread to the hospital's own EHR or register, scheduler, lab, pharmacy and ABDM." width="100%">
+</p>
+
+<p align="center">
+  <img src="assets/pathway.png" alt="A six-month pathway signed by the doctor: surgery, six chemotherapy cycles each with a blood test before it, radiotherapy and follow-up." width="100%">
 </p>
 
 ## Principles
