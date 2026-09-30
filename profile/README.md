@@ -37,12 +37,10 @@ SUTRA is an assistive follow-through layer. It sits on top of whatever the hospi
 
 ## Principles
 
-| | |
-|---|---|
-| **Assistive, not diagnostic** | SUTRA never diagnoses, prescribes, scores risk or interprets a medical value. People decide everything clinical. |
-| **Replaces nothing** | It reads the hospital's systems, books through its scheduler, and never writes the clinical record. |
-| **Consent first** | Nothing leaves the hospital without a doctor's signature and the patient's consent. |
-| **Open source** | SUTRA and its connectors are published under the AGPL licence, free for any hospital to run on its own servers. |
+- **Assistive, not diagnostic.** SUTRA never diagnoses, prescribes, scores risk or interprets a medical value. People decide everything clinical.
+- **Replaces nothing.** It reads the hospital's systems, books through its scheduler, and never writes the clinical record.
+- **Consent first.** Nothing leaves the hospital without a doctor's signature and the patient's consent.
+- **Open source.** SUTRA and its connectors are published under the AGPL licence, free for any hospital to run on its own servers.
 
 ## Team
 
